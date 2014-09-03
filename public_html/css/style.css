@@ -1,0 +1,79 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Aug 28, 2014, 11:00:35 AM
+    Author     : Student
+*/
+
+body 
+{
+    background-color: lightblue;
+    font-family: cursive;
+}
+
+nav a 
+{
+    color: darkblue;
+ 
+}
+
+#current-link
+{
+    text-decoration: none;
+}
+
+.uppercase
+{
+    text-transform: uppercase;
+    font-size: 42px;
+}
+
+img
+{
+    width: 300px;
+    height: auto;
+    margin-top: 20px;
+    margin-left: 500px;
+    
+}
+
+h1
+{
+   /* border: 3px groove black;
+    padding-left: 40px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-top: 20px;
+    margin-left: 400px;
+    margin-right: 610px;
+    */
+    text-align: center;
+}
+
+h2
+{
+   /* margin-left: 440px;
+    margin-right: 250px;
+    */
+     text-align: center;
+}
+
+p
+{
+    /*margin-left: 200px;
+    margin-right: 250px;*/
+     text-align: center;
+}
+
+header
+{
+   font-family: fantasy;
+    text-align: center;
+    font-size: 30px;
+}
+
+
+

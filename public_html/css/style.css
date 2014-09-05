@@ -83,3 +83,10 @@ embed
     margin-left: 150px;
     
 }
+
+p img
+{
+    width: 50px;
+    height: auto;
+    margin-left: 0px;
+}

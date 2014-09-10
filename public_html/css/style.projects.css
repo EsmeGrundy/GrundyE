@@ -16,12 +16,12 @@ body
 
 nav a 
 {
-    color: darkslategrey; //sets the color of the Navigation bar to light purple
+    color: darkslategrey; 
 }
 
 #current-link
 {
-    text-decoration: none; //makes it so the link to the page on eis currenly on is not underlined
+    text-decoration: none; 
 }
 
 .uppercase
@@ -30,40 +30,37 @@ nav a
     font-size: 42px;
 }
 
-img
-{
-    width: 450px;
-    height: auto;
-    margin-top: 20px;
-    margin-left: 450px;
-    
-}
-
 h1
 {
-    text-align: center;
+    text-align: center; 
 }
 
 h2
 {
-   text-align: center;
+   text-align: center; 
    font-size: 35px;
 }
 
 p
 {
-   text-align: center;
+   text-align: center; 
    font-size: 25px;
 }
 
 header
 {
-   font-family: monospace;
+   font-family: monospace; 
     text-align: center;
     font-size: 30px;
     font-weight: bold;
         
 }
 
+img.displayed
+{
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+}
 
 

@@ -10,13 +10,13 @@ and open the template in the editor.
 
 body 
 {
-    background-color: bisque;
-    font-family: cursive;
+    background-color: darkgrey;
+    font-family: monospace;
 }
 
 nav a 
 {
-    color: mediumorchid;
+    color: darkslategrey;
 }
 
 #current-link
@@ -32,29 +32,20 @@ nav a
 
 h1
 {
-   /* border: 3px groove black;
-    padding-left: 30px;
-    padding-bottom: 10px;
-    padding-top: 10px;
-    margin-top: 20px;
-    margin-left: 420px;
-    margin-right: 560px;*/
     text-align: center;
     
 }
 
 h2
 {
-   /* margin-left: 550px;
-    margin-right: 250px;*/
    text-align: center;
+   font-size: 35px;
 }
 
 p
 {
-    /*margin-left: 460px;
-    margin-right: 250px;*/
     text-align: center;
+    font-size: 25px;
 }
 
 header
@@ -75,11 +66,13 @@ img.displayed
 ul
 {
     list-style: none;
-    border: inset black 5px;
+    font-size: 25px;
+    font-family: monospace;
+    border: inset black 2px;
     text-align: center;
     padding-left: 5px;
     padding-top: 5px;
     padding-bottom: 5px;
-    margin-left: 600px;
-    margin-right: 600px;
+    margin-left: 550px;
+    margin-right: 550px;
 }

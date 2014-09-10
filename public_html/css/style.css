@@ -10,13 +10,13 @@ and open the template in the editor.
 
 body 
 {
-    background-color: lightblue;
-    font-family: cursive;
+    background-color: darkgrey;
+    font-family: monospace;
 }
 
 nav a 
 {
-    color: mediumorchid;
+    color: darkslategrey;
  
 }
 
@@ -42,31 +42,21 @@ img
 
 h1
 {
-   /* border: 3px groove black;
-    padding-left: 40px;
-    padding-bottom: 10px;
-    padding-top: 10px;
-    margin-top: 20px;
-    margin-left: 400px;
-    margin-right: 610px;
-    */
+   
     text-align: center;
 }
 
 h2
 {
-   /* margin-left: 440px;
-    margin-right: 250px;
-    */
      text-align: center;
+     font-size: 35px;
 }
 
 p
 {
-    /*margin-left: 200px;
-    margin-right: 250px;*/
-    margin-top: 10px;
+    margin-top: 0px;
      text-align: center;
+     font-size:25px;
 }
 
 header

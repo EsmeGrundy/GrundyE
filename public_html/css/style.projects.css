@@ -10,18 +10,18 @@ and open the template in the editor.
 
 body 
 {
-    background-color: darkorange;
-    font-family: cursive;
+    background-color: darkgrey;
+    font-family: monospace;
 }
 
 nav a 
 {
-    color: mediumorchid;
+    color: darkslategrey; //sets the color of the Navigation bar to light purple
 }
 
 #current-link
 {
-    text-decoration: none;
+    text-decoration: none; //makes it so the link to the page on eis currenly on is not underlined
 }
 
 .uppercase
@@ -41,28 +41,19 @@ img
 
 h1
 {
-    /*border: 3px groove black;
-    padding-left: 40px;
-    padding-bottom: 10px;
-    padding-top: 10px;
-    margin-top: 20px;
-    margin-left: 400px;
-    margin-right: 610px;*/
     text-align: center;
 }
 
 h2
 {
-   /* margin-left: 460px;
-    margin-right: 250px;*/
    text-align: center;
+   font-size: 35px;
 }
 
 p
 {
-   /* margin-left: 320px;
-    margin-right: 250px;*/
    text-align: center;
+   font-size: 25px;
 }
 
 header
